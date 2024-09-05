@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cainward
+- 👋 Hi, I’m @cain
 - 👀 I’m interested learning how to build my token, nft
 - 🌱 I’m currently learning something new everyday
 - AI is very helpful with information like
